@@ -1,1 +1,1 @@
-Personal website NextJS + tailwindcss change
+Personal website NextJS + tailwindcss changes
