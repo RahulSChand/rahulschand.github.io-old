@@ -2,7 +2,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 
 const nextConfig = {
-  assetPrefix: isProd ? '/rsc-deploy/' : '',
+  assetPrefix: isProd ? '/RahulSChand.github.io/' : '',
   images: {
     unoptimized: true,
   },
