@@ -3,6 +3,7 @@ import Header from './comp1.js'
 import Image from 'next/image'
 
 
+
 function ProjectPanel(props) {
    const { imgSource, text } = props;
  

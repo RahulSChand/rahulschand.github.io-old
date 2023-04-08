@@ -2,6 +2,7 @@ import styles from "@/styles/Home.module.css";
 //import OneProject from "./copy";
 import Link from "next/link";
 
+
 function OneProject(props) {
   const { imgSource, title, desc, hrefLink } = props;
   return (

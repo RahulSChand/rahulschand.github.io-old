@@ -5,7 +5,6 @@ function TabPanel(props) {
   const { imgSource, text, url } = props;
 
   return (
-    
     <div class="block max-w-sm rounded-lg bg-teal-50 shadow-xl dark:bg-neutral-700 hover:bg-cyan-100">
       <a href={url}>
         <div className="overflow-hidden">
