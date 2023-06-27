@@ -21,7 +21,7 @@ export default function Home() {
               src="./cat.jpg"
               alt="Next.js Logo"
               width={200}
-              height={200}
+              height={150}
               style={{
                 margin: "auto",
               }}
@@ -64,7 +64,7 @@ export default function Home() {
                 Hello, I'm <span className="font-bold">Rahul</span>, an ML
                 engineer. I completed my undergrad in Computer Science from BITS
                 Pilani in 2019 & recently worked at Microsoft Research India as
-                a Research Fellow. <br></br>
+                a Research Fellow in the Extreme Classification Team. <br></br>
                 <br></br>
                 Previously I have also spent time at Indian Institute of
                 Science(IISC), IIRS & Fintech firm Arcesium as a SDE.
