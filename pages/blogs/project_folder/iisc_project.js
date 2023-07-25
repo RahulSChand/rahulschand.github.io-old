@@ -39,7 +39,7 @@ export default function FirstPost() {
   return (
     <main className={styles.main2}>
       <div className="flex flex-col">
-        <h1 className="text-4xl mb-12 text-center pb-2">
+        <h1 className="text-4xl mb-12 font-mono text-center pb-2">
           {" "}
           Work at Video Analytics Lab, IISC{" "}
         </h1>

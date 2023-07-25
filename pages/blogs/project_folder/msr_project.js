@@ -38,8 +38,21 @@ export default function FirstPost() {
     return(
         <main className={styles.main2}>
         <div className="flex flex-col">
-        <h1 className="text-4xl mb-12 text-center pb-2"> Work at Video Analytics Lab @ IISC </h1>
-        <OneProject
+        <h1 className="text-4xl mb-12 text-center font-mono pb-2"> Work at Microsoft Research India @ IISC </h1>
+
+        <div className="text-center text-2xl font-serif">
+          Page is currently under construction 👷‍♀️🔨. Meanwhile please refer to my <a className="underline" target="_blank"
+                rel="noopener noreferrer" href="../../resume/rahul_chand_resume.pdf">resume</a>  or <a className="underline" target="_blank"
+                rel="noopener noreferrer" href="https://in.Linkedin.com/in/rahulschand">linkedIn</a> for my Microsoft Research work.  
+
+        </div>
+        <br></br>
+        <br></br>
+        <div className="text-center text-2xl font-serif">
+          🦺🚜🚧🚜🚧🦺
+        </div>
+
+        {/* <OneProject
             imgSource = "../.././work_icons_res/paper_emnlp.jpg"
             title = "CapsFlow: Optical Flow Estimation with Capsule Networks"
             desc = "CapsFlow: Optical Flow Estimation with Capsule Networks"
@@ -60,7 +73,7 @@ export default function FirstPost() {
             title = "CapsFlow: Optical Flow Estimation with Capsule Networks"
             desc = "CapsFlow: Optical Flow Estimation with Capsule Networks"
             hrefLink = "https://arxiv.org/abs/2304.00306"
-        />
+        /> */}
         
         </div>
         </main>

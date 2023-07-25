@@ -43,7 +43,7 @@ export default function FirstPost() {
             <TabPanel
               imgSource=".././work_icons_res/msr.jpg"
               text="Work at Microsoft Research India"
-              url = "./project_folder/iirs_project"
+              url = "./project_folder/msr_project"
             />
           </div>
           <div class="w-1/4">
