@@ -38,7 +38,7 @@ export default function FirstPost() {
     return(
         <main className={styles.main2}>
         <div className="flex flex-col">
-        <h1 className="text-4xl mb-12 text-center font-mono pb-2"> Work at Microsoft Research India @ IISC </h1>
+        <h1 className="text-4xl mb-12 text-center font-mono pb-2"> Work at Microsoft Research India </h1>
 
         <div className="text-center text-2xl font-serif">
           Page is currently under construction 👷‍♀️🔨. Meanwhile please refer to my <a className="underline" target="_blank"
