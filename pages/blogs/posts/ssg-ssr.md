@@ -1,6 +1,6 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2022-01-02'
+title: 'Pytorch Advanced Part-1 DataParallel'
+date: '2023-07'
 name: Rahul Chand
 ---
 

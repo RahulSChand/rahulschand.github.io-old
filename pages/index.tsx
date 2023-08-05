@@ -120,7 +120,7 @@ export default function Home() {
               Link to{" "}
               <a
                 className="underline transition duration-300 ease-in-out hover:font-bold"
-                href="./blogs/blogTest"
+                href="./blogs/pages/posts/landing"
               >
                 Blogs/Tutorials
               </a>

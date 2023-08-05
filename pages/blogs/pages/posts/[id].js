@@ -78,6 +78,9 @@ import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
       {postData.contentHtml}
     </Markdown>
     </div>
+    <div className={styles.main3}>
+      {''}
+    </div>
     </main>
     );
   }
