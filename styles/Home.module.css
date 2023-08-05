@@ -1,3 +1,7 @@
+.markdown > * {
+  all: revert;
+}
+
 .main {
   display: flex;
   flex-direction: column;

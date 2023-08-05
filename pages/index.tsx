@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Rahul Chand Homepage</title>
+        <title>Rahul Chand Website</title>
         <meta name="description" content="Rahul Chand personal site :) :)"/>
       </Head>
       <div className="flex-col">
@@ -80,9 +80,9 @@ export default function Home() {
               </div> */}
             <div className="flex justify-center">
               <p className="text-center py-8 text-2xl font-sans overflow-wrap: normal w-1/2">
-                Hello 👋 I'm <span className="font-bold">Rahul</span>, an ML
-                researcher. I completed my undergrad in Computer Science from BITS
-                Pilani in 2019 & recently worked at Microsoft Research India in the Extreme Classification Team. 
+                Hi 👋 I'm <span className="font-bold">Rahul</span>. 
+                I completed my undergrad in Computer Science from BITS
+                Pilani in 2019 & recently worked at Microsoft Research India in the Extreme Classification.  
                 {/* <br></br>Previously also spent time @ IISC, IIRS & Arcesium. */}
                 
                 <br></br>
@@ -114,6 +114,15 @@ export default function Home() {
                 href="./blogs/card"
               >
                 Projects
+              </a>
+            </h1>
+            <h1 className="text-2xl">
+              Link to{" "}
+              <a
+                className="underline transition duration-300 ease-in-out hover:font-bold"
+                href="./blogs/blogTest"
+              >
+                Blogs/Tutorials
               </a>
             </h1>
           </div>
