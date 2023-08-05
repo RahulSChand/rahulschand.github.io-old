@@ -5,16 +5,13 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  webpack: (config, { isServer }) => {
-    // Fixes npm packages that depend on `fs` module
-    if (!isServer) {
-      config.node = {
-        fs: 'empty'
-      }
-    }
+  ebpack5: true,
+  webpack: (config) => {
+    config.resolve.fallback = { fs: false, path: false };
 
-    return config
-  }
+    return config;
+  },
 }
+
 
 module.exports = nextConfig
