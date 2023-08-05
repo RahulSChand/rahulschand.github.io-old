@@ -1,4 +1,4 @@
-import { getAllPostIds, getPostData } from '../../lib/posts';
+import { getAllPostIds, getPostData } from '../../../../lib/posts';
 import styles from "@/styles/Home.module.css";
 import Markdown from "react-markdown";
 // @ts-expect-error https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/407
