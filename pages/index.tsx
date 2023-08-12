@@ -80,23 +80,22 @@ export default function Home() {
               </div> */}
             <div className="flex justify-center">
               <p className="text-center py-8 text-2xl font-sans overflow-wrap: normal w-1/2">
-                Hi 👋 I'm <span className="font-bold">Rahul</span>. 
+                Hi 🫡 I'm <span className="font-bold">Rahul</span>. 
                 I completed my undergrad in Computer Science from BITS
                 Pilani in 2019 & recently worked at Microsoft Research India in the Extreme Classification Team.  
                 {/* <br></br>Previously also spent time @ IISC, IIRS & Arcesium. */}
                 
                 <br></br>
+                <br></br>
+                <span className="text-xl">Scroll below for resume, contact info & blog  :)</span>
                 
-                <br></br>
-                Scroll below for resume, contact info & blog  :)
-                <br></br>
                 {/* <span className="text-red-500 text-base">Currently looking for oportunities in the field of LLMs, scalable AI or ML optimization.</span> */}
 
               </p>
             </div>
           </div>
           <div className="basis-1/2">
-            <h1 className="text-2xl">
+            <h1 className="text-xl font-mono">
               Link to{" "}
               <a
                 className="underline transition duration-300 ease-in-out hover:font-bold"
@@ -107,7 +106,7 @@ export default function Home() {
                 Resume
               </a>
             </h1>
-            <h1 className="text-2xl">
+            <h1 className="text-xl font-mono">
               Link to{" "}
               <a
                 className="underline transition duration-300 ease-in-out hover:font-bold"
@@ -116,15 +115,24 @@ export default function Home() {
                 Projects
               </a>
             </h1>
-            <h1 className="text-2xl">
+            <h1 className="text-xl font-mono">
               Link to{" "}
               <a
                 className="underline transition duration-300 ease-in-out hover:font-bold"
                 href="./blogs/pages/posts/landing"
               >
-                Blogs/Tutorials
+                Technical Blog
               </a>
             </h1>
+            <h2 className="text-xl font-mono">
+              Link to{" "}
+              <a
+                className="underline transition duration-300 ease-in-out hover:font-bold"
+                href="./blogs/pages/postsPersonal/landing"
+              >
+                Personal Blog
+              </a>
+            </h2>
           </div>
           <div className="basis-1/2"></div>
           <br></br>
