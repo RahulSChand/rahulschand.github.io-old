@@ -1,1 +1,1 @@
-Personal website made using NextJS + tailwindcss and stealing lot of code from stackoverflow
+Personal website & blog written in NextJS + tailwindcss
