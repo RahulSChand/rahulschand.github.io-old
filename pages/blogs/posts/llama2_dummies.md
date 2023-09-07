@@ -1,5 +1,5 @@
 ---
-title: 'llama2.c for dummies - Introduction to llama2 in C (Taken directly form my github)'
+title: 'llama2.c for dummies - Introduction to llama2 in C (Taken directly from my github)'
 date: '2023-08'
 name: Rahul Chand
 ---

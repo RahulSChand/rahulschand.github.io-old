@@ -24,3 +24,16 @@ Another premier league seasons starts with magin bu nordic robot about to score 
 
 
     **2.** Man city look too strong again, don't see how any team catches them. Newcastle look like if you make a team just out of PnP beasts, feel like they will be a dark horse for Champions league. 
+
+2. **Gameweek 1:** `Crystal Palace vs Arsenal (0-1). 3 points. Bad refreeing. Narrow Win.`
+    
+    **1.** Lucky win. Didn't produce much. No attacking identiy. Arteta high on his own tactico koolaid
+
+3. **Gameweek 1:** `Arsenal vs Fulham (2-2). 1 point. Embarrassing`
+
+    **1.** One of the worst performances under Arteta. 2-1 ahead against 10 men with 5 minutes to go & we concede. Concede early, chase all game has become the norm in home games
+
+3. **Gameweek 4:** `Arsenal vs ManUTD (3-1). 3 points. We own United :)`
+
+    **1.** Declan Rice is the best CDM in the world after Rodri.
+
