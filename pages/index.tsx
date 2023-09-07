@@ -1,4 +1,5 @@
 import Head from "next/head";
+
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 
@@ -10,6 +11,9 @@ export default function Home() {
   return (
     <>
       <Head>
+      
+      {/* <!-- Google tag (gtag.js) --> */}
+
         <title>Rahul Chand Website</title>
         <meta name="description" content="Rahul Chand personal site :) :)"/>
       </Head>
@@ -82,7 +86,7 @@ export default function Home() {
               <p className="text-center py-8 text-2xl font-sans overflow-wrap: normal w-1/2">
                 Hi 🫡 I'm <span className="font-bold">Rahul</span>. 
                 I completed my undergrad in Computer Science from BITS
-                Pilani in 2019 & recently worked at Microsoft Research India in the Extreme Classification Team.  
+                Pilani in 2019 & recently worked at Microsoft Research India in the Extreme Classification Team. Right now working on the <span className="underline">current</span> thing.  
                 {/* <br></br>Previously also spent time @ IISC, IIRS & Arcesium. */}
                 
                 <br></br>
