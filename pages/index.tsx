@@ -84,7 +84,7 @@ export default function Home() {
             <div className="flex pb-4">
               <p className="text-center text-xl font-sans">
               
-              Hi 🫡 I'm <span className="font-bold">Rahul</span>. 
+              Hi 🤝 I'm <span className="font-bold">Rahul</span>. 
                 I completed my undergrad in CS from BITS
                 Pilani in 2019 &
                 <br></br>
