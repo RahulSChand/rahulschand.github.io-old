@@ -92,6 +92,7 @@ export default function Home() {
                 <br>
                 </br>
                 Right now working on the <span className="underline">current</span> thing. 
+                <br></br>Check out my new <a className="underline font-semibold" href="https://github.com/RahulSChand/gpu_poor">github project</a> if you want to see how GPU poor you are are.
                 {/* <br></br>Previously also spent time @ IISC, IIRS & Arcesium. */}
                 
                 <br></br>
