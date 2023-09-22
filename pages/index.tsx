@@ -29,7 +29,7 @@ export default function Home() {
                 margin: "auto",
               }}
             />
-            <h1 className="text-black text-center text-5xl font-bold pt-3 dark:text-white">
+            <h1 className="text-black text-center text-3xl font-bold pt-3 dark:text-white">
               Rahul Chand
             </h1>
             <div className="flex flex-row justify-center py-4">
