@@ -81,27 +81,13 @@ export default function Home() {
                   <div>chandrahul0320@gmail.com</div>
                 </a>
               </div> */}
-            <div className="flex pb-4">
-              <p className="text-center text-xl font-mono">
-              
-              Hi 🤝 I'm <span className="font-bold">Rahul</span>. 
+            <div className="flex-row pb-4">
+            <p className="text-center text-xl font-mono">Hi 🤝 I'm <span className="font-bold">Rahul</span>. 
                 I completed my undergrad in CS from BITS
-                Pilani in 2019 &
-                <br></br>
-                recently worked at Microsoft Research on Extreme Classification. 
-                <br>
-                </br>
-                Right now working on the <span className="underline">current</span> thing. 
-                {/* <br></br>Previously also spent time @ IISC, IIRS & Arcesium. */}
-                
-                <br></br>
-                <br></br>
-                
-                
-                
-                {/* <span className="text-red-500 text-base">Currently looking for oportunities in the field of LLMs, scalable AI or ML optimization.</span> */}
-
-              </p>
+                Pilani in 2019.</p>
+            <p className="text-center text-xl font-mono">I recently worked at Microsoft Research on Extreme Classification. </p>
+            <p className="text-center text-xl font-mono">Right now working on the <span className="underline">current</span> thing.</p>
+              
             </div>
             <hr className="border-gray-400"></hr>
           </div>
