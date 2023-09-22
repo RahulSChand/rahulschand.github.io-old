@@ -29,14 +29,14 @@ export default function Home() {
                 margin: "auto",
               }}
             />
-            <h1 className="text-black text-center text-3xl font-bold pt-3 dark:text-white">
+            <h1 className="text-black text-center text-3xl font-mono font-bold pt-3 ">
               Rahul Chand
             </h1>
             <div className="flex flex-row justify-center py-4">
               <div>
                 <a href="https://github.com/RahulSChand">
                   <img
-                    src="./git_icon_blue2.png"
+                    src="./git_icon.png"
                     className="transition duration-300 ease-in-out hover:scale-125" 
                     alt="git icon"
                     width={48}
@@ -82,7 +82,7 @@ export default function Home() {
                 </a>
               </div> */}
             <div className="flex pb-4">
-              <p className="text-center text-xl font-sans">
+              <p className="text-center text-xl font-mono">
               
               Hi 🤝 I'm <span className="font-bold">Rahul</span>. 
                 I completed my undergrad in CS from BITS
@@ -92,8 +92,6 @@ export default function Home() {
                 <br>
                 </br>
                 Right now working on the <span className="underline">current</span> thing. 
-                {/* <br></br>Check out my new <a className="underline font-semibold" target="_blank"
-                rel="noopener noreferrer" href="https://github.com/RahulSChand/gpu_poor">github project</a>. */}
                 {/* <br></br>Previously also spent time @ IISC, IIRS & Arcesium. */}
                 
                 <br></br>
@@ -128,7 +126,7 @@ export default function Home() {
                 Projects
               </a>
             </h1>
-            <h1 className="font-mono text-center text-lg">
+            <h2 className="font-mono text-center">
               
               <a
                 className="underline transition duration-300 ease-in-out hover:font-bold"
@@ -136,7 +134,7 @@ export default function Home() {
               >
                 Technical Blog
               </a>
-            </h1>
+            </h2>
             <h2 className="font-mono text-center">
               
               <a
